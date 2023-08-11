@@ -1,1 +1,1 @@
-starter
+print("hi")
